@@ -3,4 +3,4 @@ const even = num.filter((i)=> (i%2==0));
 console.log(num);
 console.log(even);
 const square = even.map((i)=>(i*i));
-console.log(square);
+console.log(square); 
